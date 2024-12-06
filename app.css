@@ -127,24 +127,24 @@ h1 {
     letter-spacing: 5px;
     font-size: .75rem;
     line-height: 1.25;
-    margin-bottom: 1em;
+    margin-bottom: .82em;
 }
 
 .card__title {
     font-size: 2rem;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.55em;
 }
 
 .card__description {
     font-size: .875rem;
-    margin-bottom: 1.75em;
+    margin-bottom: 1.8em;
     line-height: 1.65;
 }
 
 .price {
     display: flex;
     align-items: center;
-    margin-bottom: 1.25em;
+    margin-bottom: 1.2em;
 }
 
 .price__new {
@@ -187,7 +187,7 @@ h1 {
 } */
 
 .attribution {
-    font-size: 11px;
+    font-size: .6875rem;
     text-align: center;
 }
 
@@ -216,7 +216,7 @@ h1 {
     }
 
     .card__item {
-        margin-bottom: 1.25em;
+        margin-bottom: 1.5em;
     }
 
     .card__title {
