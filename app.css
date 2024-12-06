@@ -124,7 +124,7 @@ h1 {
 
 .card__item {
     text-transform: uppercase;
-    letter-spacing: 6px;
+    letter-spacing: 5px;
     font-size: .75rem;
     line-height: 1.25;
     margin-bottom: .82em;
@@ -225,7 +225,6 @@ h1 {
     }
 
     .card__description {
-        letter-spacing: 0.1px;
         margin-bottom: 2em;
     }
     
