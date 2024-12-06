@@ -223,8 +223,12 @@ h1 {
         margin-bottom: 0.75em;
     }
 
-    .card__description, .price {
-        margin-bottom: 1.95em;
+    .card__description {
+        margin-bottom: 2em;
+    }
+    
+    .price {
+        margin-bottom: 1.8em;
     }
 
 
