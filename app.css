@@ -177,7 +177,8 @@ h1 {
     padding: .96em 0;
 }
 
-.btn:hover, .btn:focus-visible {
+.btn:hover,
+.btn:focus-visible {
     background: #1A4032;
     cursor: pointer;
 }
@@ -227,7 +228,7 @@ h1 {
     .card__description {
         margin-bottom: 2em;
     }
-    
+
     .price {
         margin-bottom: 1.75em;
     }
