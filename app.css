@@ -127,7 +127,7 @@ h1 {
     letter-spacing: 5px;
     font-size: .75rem;
     line-height: 1.25;
-    margin-bottom: 0.75em;
+    margin-bottom: 1em;
 }
 
 .card__title {
@@ -137,14 +137,14 @@ h1 {
 
 .card__description {
     font-size: .875rem;
-    margin-bottom: 1.8em;
+    margin-bottom: 1.75em;
     line-height: 1.65;
 }
 
 .price {
     display: flex;
     align-items: center;
-    margin-bottom: 1.35em;
+    margin-bottom: 1.25em;
 }
 
 .price__new {
