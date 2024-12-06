@@ -137,6 +137,7 @@ h1 {
 
 .card__description {
     font-size: .875rem;
+    /* letter-spacing: 0.25px; */
     margin-bottom: 1.8em;
     line-height: 1.65;
 }
@@ -224,11 +225,12 @@ h1 {
     }
 
     .card__description {
+        letter-spacing: 0.35px;
         margin-bottom: 2em;
     }
     
     .price {
-        margin-bottom: 1.75em;
+        margin-bottom: 1.8em;
     }
 
 
