@@ -216,7 +216,7 @@ h1 {
     }
 
     .card__item {
-        margin-bottom: 1.5em;
+        margin-bottom: 1.75em;
     }
 
     .card__title {
@@ -224,7 +224,7 @@ h1 {
     }
 
     .card__description, .price {
-        margin-bottom: 2em;
+        margin-bottom: 1.85em;
     }
 
 
